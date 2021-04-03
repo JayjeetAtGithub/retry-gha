@@ -29,4 +29,4 @@ jobs:
         timeout_seconds: 15
         max_attempts: 3
         retry_on: error
-        command: echo "Hi there ! Ready to error out" && exit 250
+        command: echo "Hi there ! Ready to error out"
